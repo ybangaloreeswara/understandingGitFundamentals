@@ -1,1 +1,3 @@
 We are here to understand concepts of Git
+
+Add second line of text to the first file 
